@@ -406,7 +406,7 @@
               h2.mb-4(data-aos="flip-up") Implementación de DevOps
               p.mb-4(data-aos="fade-right") Se invita a leer el documento Implementación de DevOps, donde se aborda cómo integrar prácticas colaborativas, automatización y entrega continua para transformar el ciclo de vida del software.
 
-              a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_2.pdf')" target="_blank")(data-aos="flip-up")
+              a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
                 .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                   img(src="@/assets/template/icono-pdf.svg")
                 .anexo__texto
