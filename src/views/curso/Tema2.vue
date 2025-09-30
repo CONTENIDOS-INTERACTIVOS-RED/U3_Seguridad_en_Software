@@ -240,11 +240,11 @@
 
               p.d-flex.my-4
                 img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-                a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/43260" target="_blank" rel="noopener noreferrer") Seguridad informática
+                a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/26203" target="_blank" rel="noopener noreferrer") Kim-Park, D. S. (2011). Aplicación de un oráculo de prueba automatizado a la evaluación de salidas de programas basados en XML. Revista Española de Innovación, Calidad e Ingeniería del Software, 7(1): 6-21, 2011: ( ed.). Asociación de Técnicos de Informática (ATI). 
 
               p.d-flex.my-4
                 img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-                a(href="https://www.youtube.com/watch?v=rfpEAd4W2G0" target="_blank" rel="noopener noreferrer") #DVWA#damn #vulnerable #web #application #sqlinjection #csrf #XSS #site #hacking #simulador
+                a(href="https://www.youtube.com/watch?v=ZkjeQVy84KA" target="_blank" rel="noopener noreferrer") Walker, M. (2020, 9 de junio). Pruebas de seguridad de aplicaciones con OWASP ZAP. [Video]. YouTube.
 
             .col-12.col-md-6.col-lg-3.offset-lg-1
               figure

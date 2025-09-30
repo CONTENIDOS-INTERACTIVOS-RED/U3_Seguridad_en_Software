@@ -419,15 +419,17 @@
           h2(data-aos="fade-left") MATERIAL COMPLEMENTARIO
           .row.material-complementario
             .col-12.col-md-6.col-lg-7
-              p Kim-Park, D. S. (2011). Aplicación de un oráculo de prueba automatizado a la evaluación de salidas de programas basados en XML. Revista Española de Innovación, Calidad e Ingeniería del Software, 7(1): 6-21, 2011: ( ed.). Asociación de Técnicos de Informática (ATI).
+              p.d-flex.my-4
+                img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+                a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/68913" target="_blank" rel="noopener noreferrer") Echeverri, J. Aristizábal, M. & González, L. (2013). Reflexiones sobre ingeniería de requisitos y pruebas de software: ( ed.). Corporación Universitaria Remington. 
 
               p.d-flex.my-4
                 img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-                a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/26203" target="_blank" rel="noopener noreferrer") Aplicación de un oráculo de prueba automatizado a la evaluación de salidas de programas basados en XML
+                a(href="https://www.youtube.com/watch?v=OnJBubBGadQ" target="_blank" rel="noopener noreferrer") return(GiS). (2023, 13 de diciembre). [Video]. YouTube. 
 
-              p.d-flex.my-4
-                img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-                a(href="https://www.youtube.com/watch?v=ZkjeQVy84KA" target="_blank" rel="noopener noreferrer") Pruebas de seguridad de aplicaciones con OWASP ZAP
+              //- p.d-flex.my-4
+              //-   img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
+              //-   a(href="https://www.youtube.com/watch?v=ZkjeQVy84KA" target="_blank" rel="noopener noreferrer") Pruebas de seguridad de aplicaciones con OWASP ZAP
 
             .col-12.col-md-6.col-lg-3.offset-lg-1
               figure

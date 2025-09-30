@@ -25,10 +25,10 @@
               p Los invitamos a explorar el material complementario que ampliará sus conocimientos sobre implementación de feedback continuo.
               p.d-flex.my-4
                 img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-                a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/28569" target="_blank" rel="noopener noreferrer") Clery Aguirre, A. G. (2009). Aplicación y uso del sistema Kanban para lograr la eficiencia operativa de una empresa. El Cid Editor | apuntes.
+                a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/43260" target="_blank" rel="noopener noreferrer") Escrivá Gascó, G. (2013). Seguridad informática: ( ed.). Macmillan Iberia, S.A. 
               p.d-flex.my-4
                 img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-                a(href="https://www.youtube.com/watch?v=-hoki2YPHQw" target="_blank" rel="noopener noreferrer") Evolution4All. (2019). Agile Retrospectives: Feedback Door Exercise [video].YouTube.
+                a(href="https://www.youtube.com/watch?v=rfpEAd4W2G0" target="_blank" rel="noopener noreferrer") solomongo | CIBERSEGURIDAD. (2025, 22 de mayo). #DVWA#damn #vulnerable #web #application #sqlinjection #csrf #XSS #site #hacking #simulador. [Video]. YouTube.
             .col-12.col-md-6.col-lg-3.offset-lg-1
               figure
                 img(src='@/assets/componentes/material-complementario.svg', alt='')
