@@ -218,11 +218,11 @@
               img(src="@/assets/curso/tema2/16.svg").mx-auto
 
       // Bloque: video-fondo
-      //- .bg-full-width.bg-fondo-slider.mb-5
-      //-   .p-4.p-md-5
-      //-     figure
-      //-       .video
-      //-         iframe(width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      .bg-full-width.bg-fondo-slider.mb-5
+        .p-4.p-md-5
+          figure
+            .video
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/QapKesuuolg?si=12ttjw1NXGuyIgVT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
       // Bloque: actividad
       .bg-full-width.border-top.actividad.bg-color-actividad
